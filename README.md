@@ -24,3 +24,5 @@ Interfaces
 Static & Final keywords
 
 Constructor Chaining
+
+TypeCasting 
