@@ -26,3 +26,7 @@ Static & Final keywords
 Constructor Chaining
 
 TypeCasting 
+
+Generalization and Specialization
+
+Abstraction
