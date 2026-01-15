@@ -30,3 +30,5 @@ TypeCasting
 Generalization and Specialization
 
 Abstraction
+
+Interface
